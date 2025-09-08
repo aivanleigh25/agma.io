@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="22px" height="22px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 301 301"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#203C68;stroke-width:14.0884;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil8 {fill:#00ADEF}
+    .fil6 {fill:#3AB54A}
+    .fil4 {fill:#662E93}
+    .fil7 {fill:#92278F}
+    .fil2 {fill:#CA161F}
+    .fil9 {fill:#EE2B7A}
+    .fil3 {fill:#F6C717}
+    .fil5 {fill:#F7941D}
+    .fil1 {fill:#FBDE00}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M150 271c-66,0 -120,-54 -120,-121 0,-66 54,-120 120,-120 67,0 121,54 121,120 0,67 -54,121 -121,121z"/>
+   </clipPath>
+    <clipPath id="id1">
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M150 271c-66,0 -120,-54 -120,-121 0,-66 54,-120 120,-120 67,0 121,54 121,120 0,67 -54,121 -121,121z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="301" height="301"/>
+  <path class="fil1" d="M150 271c-66,0 -120,-54 -120,-121 0,-66 54,-120 120,-120 67,0 121,54 121,120 0,67 -54,121 -121,121z"/>
+  <g style="clip-path:url(#id0)">
+   <g id="_845195040">
+    <polygon id="1" class="fil2" points="697,470 554,431 527,513 554,613 676,540 "/>
+    <polygon class="fil3" points="756,612 683,484 554,612 667,632 "/>
+    <polygon class="fil2" points="697,755 736,613 554,613 608,699 "/>
+    <polygon class="fil3" points="554,814 683,741 554,613 529,729 "/>
+    <polygon class="fil2" points="412,755 554,794 554,613 457,660 "/>
+    <polygon class="fil3" points="353,613 426,741 554,613 444,596 "/>
+    <polygon class="fil2" points="412,470 373,613 554,613 508,525 "/>
+    <polygon class="fil3" points="554,411 426,484 554,613 "/>
+    <polygon class="fil4" points="293,8 151,-31 123,51 151,151 273,78 "/>
+    <polygon class="fil5" points="352,150 279,22 150,150 264,170 "/>
+    <polygon class="fil2" points="293,293 332,151 151,151 204,238 "/>
+    <polygon class="fil6" points="151,352 279,279 151,151 125,267 "/>
+    <polygon class="fil7" points="8,293 151,332 151,151 53,198 "/>
+    <polygon class="fil3" points="-51,151 22,279 151,151 41,134 "/>
+    <polygon class="fil8" points="8,8 -31,151 151,151 104,63 "/>
+    <polygon class="fil9" points="151,-51 22,22 151,151 "/>
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image x="326" y="-331" width="332" height="332" xlink:href="wof_Images\wof_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+    <circle class="fil1 str0" cx="150" cy="150" r="30"/>
+   </g>
+  </g>
+  <path class="fil0 str0" d="M150 271c-66,0 -120,-54 -120,-121 0,-66 54,-120 120,-120 67,0 121,54 121,120 0,67 -54,121 -121,121z"/>
+ </g>
+</svg>
